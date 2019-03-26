@@ -1,17 +1,20 @@
 ---
 layout: post
 title: 'Solusi Transfer Uang Tanpa Kena Biaya Admin, Gunakan OVO'
-feature_image: /assets/uploads/nzq2pcm.png
+feature_image: ''
 excerpt: >-
   Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019),
   karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi
   karena perubahan terms and condition OVO atau bank.
 categories:
   - General
+image: /assets/uploads/nzq2pcm.png
 ---
-*Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019), karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi karena perubahan terms and condition OVO atau bank.*
+_Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019), karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi karena perubahan terms and condition OVO atau bank._
 
-*Dan saya tidak dibayar oleh OVO atas tulisan ini* 😌
+_Dan saya tidak dibayar oleh OVO atas tulisan ini_ 😌
+
+![](/assets/uploads/nzq2pcm.png)
 
 Kalau kamu sering merasa males transfer beda bank karena bakal kena potongan 5.000 atau 6.500, atau bahkan 7.500 rupiah, maka tips ini tepat untukmu.
 
@@ -19,8 +22,8 @@ Sebelumnya, saya menggunakan layanan [flip.id](https://flip.id/), sistem kerjany
 
 Ok, jadi prosedurnya adalah:  
 
-- [Top up akun OVO](https://www.ovo.id/howtotopup) mu menggunakan apapun itu (ATM, Internet Banking, atau Mobile Banking). 
-- Kemudian transfer saldo di OVO mu itu ke rekening Bank tujuan transfermu, dan viola... kamu berhasil transfer uang tanpa biaya administrasi. 
+* [Top up akun OVO](https://www.ovo.id/howtotopup) mu menggunakan apapun itu (ATM, Internet Banking, atau Mobile Banking). 
+* Kemudian transfer saldo di OVO mu itu ke rekening Bank tujuan transfermu, dan viola... kamu berhasil transfer uang tanpa biaya administrasi. 
 
 Tapi supaya bisa menggunakan fitur transfer, pastikan OVO mu sudah diupgrade ke layanan [OVO primer](https://www.ovo.id/faq), caranya simpel, tinggal mengirimkan data diri ke pihak OVO (foto muka dan KTP).
 
@@ -30,4 +33,4 @@ Cara ini kamu bisa implementasikan juga untuk bisnis onlinemu, kamu tinggal memi
 
 Semoga Bermanfaat 👋.
 
-#tips #fintech
+\#tips #fintech
