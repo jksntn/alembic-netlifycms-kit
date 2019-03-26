@@ -6,8 +6,7 @@ excerpt: >-
   Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019),
   karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi
   karena perubahan terms and condition OVO atau bank.
-categories:
-  - General
+categories: ''
 image: /assets/uploads/nzq2pcm.png
 ---
 _Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019), karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi karena perubahan terms and condition OVO atau bank._
